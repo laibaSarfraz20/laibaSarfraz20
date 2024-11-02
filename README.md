@@ -9,11 +9,13 @@
 TECHNOLOGIES I KNOW 
 - HTML , CSS , JS & TS
 - MERN Stack (ReactJs, NodeJs)
--Styling (Tailwindcss, Bootstrap)
+- Styling (Tailwindcss, Bootstrap)
+
 - (Firebase Firestore)
--Project Management (git, Github)
--Design (Figma, Canva)
--Deployment (Firebase,Netlify)
+- Project Management (git, Github)
+- Design (Figma, Canva)
+- Deployment (Firebase,Netlify) 
+
 <!---
 laibaSarfraz20/laibaSarfraz20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
