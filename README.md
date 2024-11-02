@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love coding
 
 TECHNOLOGIES I KNOW 
-HTML , CSS , JS & TS
+HTML , CSS , JS , TS & React.js
 <!---
 laibaSarfraz20/laibaSarfraz20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
