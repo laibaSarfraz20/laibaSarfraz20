@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web and App development and web 3.0
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me laibasarfraz2003@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I love coding
 
 TECHNOLOGIES I KNOW 
