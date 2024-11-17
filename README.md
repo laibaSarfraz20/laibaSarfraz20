@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love coding
 
 TECHNOLOGIES I KNOW 
-- HTML , CSS , JS & TS
+- HTML , CSS , JS , ES6 & TS
 - MERN Stack (ReactJs, NodeJs)
 - Styling (Tailwindcss, Bootstrap)
 
