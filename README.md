@@ -1,7 +1,7 @@
 
-<div style="float: left; margin-right: 20px;">
+
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="200">
-</div>
+
 
 - 👋 Hi, I’m @laibaSarfraz20
 - 👀 Under-Graduate
