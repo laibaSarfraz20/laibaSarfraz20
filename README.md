@@ -41,6 +41,8 @@ TECHNOLOGIES I KNOW
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header"/>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=laibaSarfraz20&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/laibaSarfraz20)
+
 
 
 
