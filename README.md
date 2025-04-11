@@ -33,6 +33,15 @@ TECHNOLOGIES I KNOW
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laibasarfraz20&show_icons=true&locale=en" alt="laibasarfraz20" /></p>
 [![views](https://komarev.com/ghpvc/?username=laibaSarfraz20&label=👀%20stalks&style=for-the-badge&color=ff69b4)](https://github.com/laibaSarfraz20)
 
+![Vibe Check](https://img.shields.io/badge/Vibe%20Check-Passed-ffb6c1?style=for-the-badge&logo=sparkles&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header"/>
+![README Queen](https://img.shields.io/badge/README👑-Queen-ff69b4?style=for-the-badge)
+[![👀 caught lurking](https://komarev.com/ghpvc/?username=laibaSarfraz20&label=caught%20lurking&color=ffc0cb&style=for-the-badge)](https://github.com/laibaSarfraz20)
+
+
+
+
+
 
 
                                                                                                                                                   
@@ -42,4 +51,7 @@ TECHNOLOGIES I KNOW
 <!---
 laibaSarfraz20/laibaSarfraz20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+> 💫 *"laibaSarfraz20/laibaSarfraz20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes."*
+
 --->
