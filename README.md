@@ -31,7 +31,8 @@ TECHNOLOGIES I KNOW
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laibasarfraz20&show_icons=true&locale=en&layout=compact" alt="laibasarfraz20" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laibasarfraz20&show_icons=true&locale=en" alt="laibasarfraz20" /></p>
-[![Profile Views](https://komarev.com/ghpvc/?username=laibaSarfraz20&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/laibaSarfraz20)
+[![views](https://komarev.com/ghpvc/?username=laibaSarfraz20&label=👀%20stalks&style=for-the-badge&color=ff69b4)](https://github.com/laibaSarfraz20)
+
 
 
                                                                                                                                                   
