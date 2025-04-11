@@ -33,15 +33,14 @@ TECHNOLOGIES I KNOW
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laibasarfraz20&show_icons=true&locale=en" alt="laibasarfraz20" /></p>
 
 
-[![👀 caught lurking](https://komarev.com/ghpvc/?username=laibaSarfraz20&label=caught%20lurking&color=ffc0cb&style=for-the-badge)](https://github.com/laibaSarfraz20)
-
 ![Vibe Check](https://img.shields.io/badge/Vibe%20Check-Passed-ffb6c1?style=for-the-badge&logo=sparkles&logoColor=white)
+
+[![👀 caught lurking](https://komarev.com/ghpvc/?username=laibaSarfraz20&label=caught%20lurking&color=ffc0cb&style=for-the-badge)](https://github.com/laibaSarfraz20)
 
 ![README Queen](https://img.shields.io/badge/README👑-Queen-ff69b4?style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=laibaSarfraz20&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/laibaSarfraz20)
 
 
 
